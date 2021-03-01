@@ -1,6 +1,7 @@
 # image-classification-based-on-RBF-network
-应用RBF网络对CIFAR-10进行分类
-运行环境：MATLAB R2016a
+应用RBF网络对CIFAR-10进行分类。
+
+运行环境：MATLAB R2016a。
 运行步骤：
 1.在matlab中导入所有文件
 2.在rbfpiccla_simple中自行设定M值和N值的大小（需要大于2，值越大训练速度越快，准确率越低）
